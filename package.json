@@ -10,7 +10,8 @@
     "vue": "^2.2.4",
     "vuex": "^2.1.2",
     "vue-router": "*",
-    "stylus-loader": "^3.0.1"
+    "stylus-loader": "^3.0.1",
+    "my-credit-card": "~0.1.2"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
